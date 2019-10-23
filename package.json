@@ -1,0 +1,25 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "slides",
+  "scripts": {
+    "build-css": "node-sass ./css/source/   --output ./css/",
+    "build": "",
+    "start": "static-server"
+  },
+  "keywords": [
+    "Reveal",
+    "GraphQL",
+    "JavaZone2018"
+  ],
+  "author": "Niek Palm",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.3",
+    "node-static": "^0.7.10"
+  },
+  "dependencies": {
+    "global": "^4.3.2",
+    "static": "^2.0.0"
+  }
+}
