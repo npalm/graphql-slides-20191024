@@ -15,7 +15,7 @@
   "author": "Niek Palm",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "node-static": "^0.7.10"
   },
   "dependencies": {
